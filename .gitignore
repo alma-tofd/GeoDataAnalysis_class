@@ -1,0 +1,6 @@
+*.zip
+*.png
+.vscode
+*.csv
+**/modells/**
+**/train_data/**
