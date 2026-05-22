@@ -1,9 +1,9 @@
 notebook
 numpy<2.0.0
-matplotlib==3.5.1
+matplotlib
 scipy
 tqdm
-Pillow==12.2.0
+Pillow  
 gdown==5.2.0
 opencv-python-headless
 tensorflow==2.21.0
